@@ -1,1 +1,3 @@
 - Detail video: favorite video masih menggunakan isFavorite (kalo table favorite di reset, isFavorite masih bernilai true)
+- homepage: search video tidak berfungsi
+- favorite page: invalid date (mungkin waktu penambahan video ke favorite ga tercatat di database)

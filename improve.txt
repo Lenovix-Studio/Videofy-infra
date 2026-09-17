@@ -1,0 +1,6 @@
+> detail page:
+    - bikin media player custom
+> upload page:
+    - setelah upload sukses, langsung di reload halaman upload
+    - perbagus preview video yang mau diupload
+    - field "tags" ambil data dari table tags atau kalo belum ada bisa input manual

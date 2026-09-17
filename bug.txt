@@ -1,0 +1,1 @@
+- Detail video: favorite video masih menggunakan isFavorite (kalo table favorite di reset, isFavorite masih bernilai true)

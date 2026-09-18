@@ -1,4 +1,4 @@
-> tambah fitur playlist (description, foto2, video2)
+> tambah fitur playlist (description, foto2, video2) [feat/playlists]
     - Halaman Daftar Playlist (/playlists)
         - Grid kumpulan Playlist (menampilkan Cover, Judul, Jumlah Video, Jumlah Foto).
         - Tombol "Create New Playlist" (Modal/Form: Judul & Deskripsi)

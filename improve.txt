@@ -1,1 +1,10 @@
 > tambah fitur playlist (description, foto2, video2)
+    - Halaman Daftar Playlist (/playlists)
+        - Grid kumpulan Playlist (menampilkan Cover, Judul, Jumlah Video, Jumlah Foto).
+        - Tombol "Create New Playlist" (Modal/Form: Judul & Deskripsi)
+    - Halaman Detail Playlist (/playlists/[slug])
+        - Header: Judul, Deskripsi, Tombol Play All, Tombol Add Item (Tambah Video/Foto ke Playlist).
+        - Tab Filter: Semua Item, Video, Foto.
+        - Grid / List Items: Menampilkan item-item dalam playlist dengan urutan yang sesuai.
+    - Interaksi pada Video / Photo Detail Page:
+        - Di halaman Watch Video atau View Photo, ada tombol "Save to Playlist" (Modal checkbox daftar playlist).

@@ -1,2 +1,1 @@
 - homepage: search video tidak berfungsi
-- favorite page: invalid date (mungkin waktu penambahan video ke favorite ga tercatat di database)

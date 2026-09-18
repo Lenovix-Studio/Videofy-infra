@@ -2,5 +2,3 @@
 > homepage: every card: ada tag 1
 > detail page:
     - bikin media player custom
-> upload page:
-    - field "tags" ambil data dari table tags atau kalo belum ada bisa input manual

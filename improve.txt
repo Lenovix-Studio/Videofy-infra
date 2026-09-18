@@ -3,5 +3,4 @@
 > detail page:
     - bikin media player custom
 > upload page:
-    - perbagus preview video yang mau diupload
     - field "tags" ambil data dari table tags atau kalo belum ada bisa input manual

@@ -1,4 +1,2 @@
 > tambah fitur playlist (description, foto2, video2)
 > homepage: every card: ada tag 1
-> detail page:
-    - bikin media player custom

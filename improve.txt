@@ -8,5 +8,6 @@
         - Grid / List Items: Menampilkan item-item dalam playlist dengan urutan yang sesuai.
     - Interaksi pada Video / Photo Detail Page:
         - Di halaman Watch Video atau View Photo, ada tombol "Save to Playlist" (Modal checkbox daftar playlist).
-
 > random video
+> homepage: ada tombol add favorite
+> form edit page disamaain dengan upload page

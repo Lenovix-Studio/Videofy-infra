@@ -1,1 +1,0 @@
-> Upload page: tag baru ga masuk ke DB maupun ga kecatat di video

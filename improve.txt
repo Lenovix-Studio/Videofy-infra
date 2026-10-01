@@ -1,0 +1,18 @@
+> fitur A: compress video/thumbnail/photo (menggunakan ffmpeg atau library kompresi gambar sebelum disimpan ke disk)
+> fitur B: kolom komentar pada halaman menonton video (watch page)
+> fitur C: kategori video dan filter pencarian lanjutan
+> fitur D: tracking jumlah tayangan (view count) dan daftar video trending
+> fitur E: Picture-in-Picture (PiP) atau Mini Player agar video tetap berjalan di pojok layar saat menelusuri halaman lain
+> fitur F: Auto-Play Next (Otomatis memutar video selanjutnya dari daftar rekomendasi saat video selesai)
+> fitur G: Video Chapters / Timestamps (Mendeteksi waktu di deskripsi seperti '0:00 Intro' yang bisa diklik)
+> fitur H: Lanjutkan Menonton (Menyimpan durasi terakhir yang ditonton agar bisa dilanjutkan nanti)
+> fitur I: Dukungan Subtitle (Unggah file .vtt/.srt untuk kutipan dan terjemahan di video player)
+> fitur K: Theater Mode (Tombol perluasan player agar lebar memenuhi layar tanpa harus full-screen)
+> fitur L: Pintasan Keyboard (Space = pause, F = fullscreen, J/L = mundur/maju 10 detik, M = mute)
+> fitur M: Hover Preview/Scrubbing (Menampilkan gambar thumbnail kecil di atas progress bar video saat di-hover)
+> fitur N: Video Speed Controls (Pemutar kecepatan video: 0.5x, 1x, 1.5x, 2x)
+> fitur O: Loop/Ulangi Video (Tombol untuk mengulang video yang sama secara terus-menerus)
+> fitur P: Reorder Playlist (Fitur drag-and-drop untuk mengatur ulang urutan video di dalam playlist)
+> fitur Q: Tombol Download Video (UI di halaman watch untuk mendownload file MP4, karena API-nya sudah tersedia)
+> fitur R: Animasi Thumbnail (Backend secara otomatis men-generate file GIF berdurasi 3 detik sebagai thumbnail animasi saat card di-hover)
+> fitur S: Tampilan Grid/List (Tombol *toggle* di beranda untuk mengubah tampilan video dari bentuk Card Grid menjadi List/Baris memanjang)

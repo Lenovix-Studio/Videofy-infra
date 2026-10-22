@@ -1,7 +1,6 @@
 > BUG:
 
 > IMPROVE:
-- fitur B: kolom komentar pada halaman menonton video (watch page)
 - fitur C: kategori video dan filter pencarian lanjutan
 - fitur F: Auto-Play Next (Otomatis memutar video selanjutnya dari daftar rekomendasi saat video selesai)
 - fitur G: Video Chapters / Timestamps (Mendeteksi waktu di deskripsi seperti '0:00 Intro' yang bisa diklik)

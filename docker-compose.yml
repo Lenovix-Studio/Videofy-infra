@@ -51,6 +51,40 @@ services:
     networks:
       - videofy-network
 
+  redis-dev:
+    image: redis:7-alpine
+    container_name: videofy-redis-dev
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data/redis-dev:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - videofy-network
+
+  redis-prod:
+    image: redis:7-alpine
+    container_name: videofy-redis-prod
+    restart: unless-stopped
+    ports:
+      - "6380:6379"
+    volumes:
+      - ./data/redis-prod:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - videofy-network
+
 networks:
   videofy-network:
     driver: bridge
